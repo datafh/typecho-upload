@@ -1,0 +1,5 @@
+# 个人凭据，绝不入库
+config.json
+*.log
+_md_tmp/
+__pycache__/
